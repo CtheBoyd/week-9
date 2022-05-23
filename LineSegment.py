@@ -8,4 +8,4 @@ class Point():
             return self._x_coord
 
         def get_yc(self):
-            return self.
+            return self._y_coord
